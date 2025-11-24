@@ -36,7 +36,6 @@ An intelligent conversational AI agent that researches companies and generates c
 - Gemini API key
 - ScrapingDog API key
 
-### Installation
 
-1. Clone repository:
+
 
