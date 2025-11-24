@@ -4,12 +4,12 @@ An intelligent conversational AI agent that researches companies and generates c
 
 ## Features
 
-- 🔍 Multi-source company research (Wikipedia, web scraping)
-- 📝 Automated account plan generation
-- 💬 Natural conversational interface
-- ✏️ Section-by-section plan updates
-- 📊 Real-time research progress updates
-- 🎯 Handles multiple user personas (confused, efficient, chatty, edge cases)
+-  Multi-source company research (Wikipedia, web scraping)
+-  Automated account plan generation
+-  Natural conversational interface
+-  Section-by-section plan updates
+-  Real-time research progress updates
+-  Handles multiple user personas (confused, efficient, chatty, edge cases)
 
 ## Architecture
 
@@ -39,3 +39,4 @@ An intelligent conversational AI agent that researches companies and generates c
 ### Installation
 
 1. Clone repository:
+
